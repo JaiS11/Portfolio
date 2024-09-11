@@ -51,7 +51,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["a ECE Student", "into Web Development", "into Data Structures and Algorithms"],
+        strings: ["an ECE Student", "into Web Development", "into Data Structures and Algorithms"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 35,
