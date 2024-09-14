@@ -41,7 +41,7 @@ $(document).ready(function(){
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Portfolio | Priyanshi Siwach";
+        document.title = "Portfolio | Jai Singh";
         $("#favicon").attr("href","/images/girl1.jpg");
     }
     else {
